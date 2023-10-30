@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+C:\Users\liamc\source\repos\Lab4\appsettings.json
+C:\Users\liamc\source\repos\Lab4\appsettings.Development.json
+
 # User-specific files
 *.rsuser
 *.suo
